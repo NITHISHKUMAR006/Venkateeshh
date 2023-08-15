@@ -11,7 +11,7 @@
 
 - 📝 My Portfolio [https://bit.ly/venkatesh-portfolio-](https://bit.ly/venkatesh-portfolio-)
 
-- 💬 Ask me about **C,Java,Android,Web Dev.**
+- 💬 Ask me about **C,Java,Android Dev,Web Dev.**
 
 - 📫 How to reach me **rkamathvenkatesh@gmail.com**
 
