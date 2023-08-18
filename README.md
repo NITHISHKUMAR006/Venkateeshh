@@ -5,7 +5,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=venkateeshh&label=Profile%20views&color=0e75b6&style=flat" alt="venkateeshh" /> </p>
 <img align="right" alt="Coding" width="400" src="https://www.freecodecamp.org/news/content/images/2022/11/hire-full-stack-developers1546507474317-1.gif">
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **JavaScript & Python.**
 
 - 👨‍💻 All of my projects are available at [https://linktr.ee/Venkatesh.kamath](https://linktr.ee/Venkatesh.kamath)
 
